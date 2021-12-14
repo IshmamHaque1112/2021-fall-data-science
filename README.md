@@ -50,8 +50,9 @@ Cuny Tech Prep Fall 2021 Data Science Repo
 * Week 11 [11/18 - 11/19]:  Data Visualization
 * Week XX [11/25 - 11/26]:  NO CLASS
 * Week 12 [12/02 - 12/03]:  Projects Week 2
+* Week 13 [12/06]:  __DRESS REHEARSAL__ 5:30 - 7:00pm [Meeting Link Here](https://meet.google.com/xkn-kubz-njv)
 * Week 13 [12/09 - 12/10]:  Projects Week 3 (MVP In Class Presentations)
-* Week 14 [12/14]: __!!Demo Night 5:30 - 7:00!!__
+* Week 14 [12/14]: Demo Night Tuesday 5:30 - 7:00 __Must be logged in at 5:00!!__  You will be emailed the meeting link via a Google Calendar email invite.  You will use the associated meeting link as your demo night meeting link. 
 
 _Note, coursework and lessons may be subject to change based on class needs._
 
